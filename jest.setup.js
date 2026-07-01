@@ -1,0 +1,1 @@
+// Jest setup intentionally left minimal for Expo RN tests.
